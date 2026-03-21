@@ -1,3 +1,4 @@
 # Ignore anything Claude Code might auto-generate
 *.tmp
 *.bak
+.DS_Store
